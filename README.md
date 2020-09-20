@@ -4,5 +4,5 @@ Analysis script to find the number of times each letter of the alphabet appears 
 
 In the book The Fountainhead by Ayn Rand, there is mention of "a youth who had written a thousand-page novel without a single letter o".
 
-So I wanted to find out how many words there are available to use without the letter 'o', and also the how this number compared
+So I wanted to find out how many words there are available to use without the letter 'o', and also how this number compares
 with other letters.
